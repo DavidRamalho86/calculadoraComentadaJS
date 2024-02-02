@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(0, 153, 102);
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+body{
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/217/423/desktop-wallpaper-46-best-walls-of-calculator-hq-definition-calculator-calculator.jpg");
+    align-content: center;
+    background-size: auto;
+}
+
+h1 {
+    text-align: center;
+}
